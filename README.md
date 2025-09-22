@@ -7,5 +7,5 @@ Complete replication package of the article
 - R
   - for functions used in coding at script
 
-- Data
+- data
   - datasets used in this article
