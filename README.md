@@ -1,2 +1,2 @@
-# PNAS_replication
+# Article_replication
 For replication of our article
